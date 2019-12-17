@@ -1,6 +1,9 @@
 # mensaBot
 A telegram bot for the management of school canteens
 
+This is the telegram bot link:
+https://t.me/MensaFB_bot
+
 
 
 *****************************
